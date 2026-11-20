@@ -14,19 +14,31 @@ export default defineConfig({
 				{ label: 'About', slug: 'about' },
 				{
 					label: 'Governance & Compliance',
-					items: [{ autogenerate: { directory: 'governance' } }],
+					items: [
+						{ label: 'Overview', slug: 'governance' },
+						{ autogenerate: { directory: 'governance' } },
+					],
 				},
 				{
 					label: 'Architecture',
-					items: [{ autogenerate: { directory: 'architecture' } }],
+					items: [
+						{ label: 'Overview', slug: 'architecture' },
+						{ autogenerate: { directory: 'architecture' } },
+					],
 				},
 				{
 					label: 'AI FinOps',
-					items: [{ autogenerate: { directory: 'finops' } }],
+					items: [
+						{ label: 'Overview', slug: 'finops' },
+						{ autogenerate: { directory: 'finops' } },
+					],
 				},
 				{
 					label: 'Transformation Playbooks',
-					items: [{ autogenerate: { directory: 'playbooks' } }],
+					items: [
+						{ label: 'Overview', slug: 'playbooks' },
+						{ autogenerate: { directory: 'playbooks' } },
+					],
 				},
 				{
 					label: 'Control Library',
@@ -34,15 +46,24 @@ export default defineConfig({
 				},
 				{
 					label: 'India Regulatory Landscape',
-					items: [{ autogenerate: { directory: 'india' } }],
+					items: [
+						{ label: 'Overview', slug: 'india' },
+						{ autogenerate: { directory: 'india' } },
+					],
 				},
 				{
 					label: 'Writing',
-					items: [{ autogenerate: { directory: 'writing' } }],
+					items: [
+						{ label: 'Overview', slug: 'writing' },
+						{ autogenerate: { directory: 'writing' } },
+					],
 				},
 				{
 					label: 'Resources & Templates',
-					items: [{ autogenerate: { directory: 'resources' } }],
+					items: [
+						{ label: 'Overview', slug: 'resources' },
+						{ autogenerate: { directory: 'resources' } },
+					],
 				},
 			],
 		}),
