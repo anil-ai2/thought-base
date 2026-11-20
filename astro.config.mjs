@@ -11,16 +11,38 @@ export default defineConfig({
 			title: 'Thought Base',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/anil-ai2/thought-base' }],
 			sidebar: [
+				{ label: 'About', slug: 'about' },
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Governance & Compliance',
+					items: [{ autogenerate: { directory: 'governance' } }],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'Architecture',
+					items: [{ autogenerate: { directory: 'architecture' } }],
+				},
+				{
+					label: 'AI FinOps',
+					items: [{ autogenerate: { directory: 'finops' } }],
+				},
+				{
+					label: 'Transformation Playbooks',
+					items: [{ autogenerate: { directory: 'playbooks' } }],
+				},
+				{
+					label: 'Control Library',
+					items: [{ label: 'Control Library', slug: 'reference/control-library' }],
+				},
+				{
+					label: 'India Regulatory Landscape',
+					items: [{ autogenerate: { directory: 'india' } }],
+				},
+				{
+					label: 'Writing',
+					items: [{ autogenerate: { directory: 'writing' } }],
+				},
+				{
+					label: 'Resources & Templates',
+					items: [{ autogenerate: { directory: 'resources' } }],
 				},
 			],
 		}),
