@@ -63,12 +63,12 @@ AI is only as good as its data, and in regulated enterprises the data is the ris
 
 ## Related
 
-- [GDPR](/governance/gdpr/) — data protection controls.
-- [DPDP Act](/governance/dpdp/) — India data protection.
-- [RAG](/architecture/rag/) — corpus governance for retrieval.
-- [Predictive ML](/architecture/predictive/) — feature governance.
-- [AI Security](/architecture/ai-security/) — data leakage risks.
-- [Control Framework](/governance/control-framework/) — domains 2 and 5.
-- [Control Library](/reference/control-library/) — data rows.
-- [AI Observability](/architecture/ai-observability/) — data quality metrics.
-- [EU AI Act](/governance/eu-ai-act/) — Art. 10 data governance obligation.
+- [GDPR](/thought-base/governance/gdpr/) — data protection controls.
+- [DPDP Act](/thought-base/governance/dpdp/) — India data protection.
+- [RAG](/thought-base/architecture/rag/) — corpus governance for retrieval.
+- [Predictive ML](/thought-base/architecture/predictive/) — feature governance.
+- [AI Security](/thought-base/architecture/ai-security/) — data leakage risks.
+- [Control Framework](/thought-base/governance/control-framework/) — domains 2 and 5.
+- [Control Library](/thought-base/reference/control-library/) — data rows.
+- [AI Observability](/thought-base/architecture/ai-observability/) — data quality metrics.
+- [EU AI Act](/thought-base/governance/eu-ai-act/) — Art. 10 data governance obligation.

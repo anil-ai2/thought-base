@@ -59,12 +59,12 @@ GPUs are the dominant cost in AI. The strategy is **right-size first, then commi
 
 ## Related
 
-- [Unit Economics](/finops/unit-economics/) — cost per inference/outcome.
-- [Cost Taxonomy](/finops/cost-taxonomy/) — training vs. inference split.
-- [Chargeback & Showback](/finops/chargeback/) — attributing GPU cost.
-- [FOCUS Spec & Tooling](/finops/focus-spec/) — tooling.
-- [AI Observability](/architecture/ai-observability/) — GPU metrics.
-- [Agentic](/architecture/agentic/) — cost multiplication from loops.
-- [RAG](/architecture/rag/) — embedding and retrieval GPU usage.
-- [Control Framework](/governance/control-framework/) — domain 9 (FinOps).
-- [Transformation Operating Model](/playbooks/operating-model/) — optimize phase.
+- [Unit Economics](/thought-base/finops/unit-economics/) — cost per inference/outcome.
+- [Cost Taxonomy](/thought-base/finops/cost-taxonomy/) — training vs. inference split.
+- [Chargeback & Showback](/thought-base/finops/chargeback/) — attributing GPU cost.
+- [FOCUS Spec & Tooling](/thought-base/finops/focus-spec/) — tooling.
+- [AI Observability](/thought-base/architecture/ai-observability/) — GPU metrics.
+- [Agentic](/thought-base/architecture/agentic/) — cost multiplication from loops.
+- [RAG](/thought-base/architecture/rag/) — embedding and retrieval GPU usage.
+- [Control Framework](/thought-base/governance/control-framework/) — domain 9 (FinOps).
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — optimize phase.

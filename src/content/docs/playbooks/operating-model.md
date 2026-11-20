@@ -93,8 +93,8 @@ R = responsible, A = accountable, C = consulted.
 
 ## Related
 
-- [Risk Tiering Model](/governance/risk-tiering/) — the govern gate's core input.
-- [Control Framework](/governance/control-framework/) — the control set enforced at govern.
-- [Decision Frameworks](/playbooks/decision-frameworks/) — build-vs-buy, model selection.
-- [CoE Charter](/playbooks/coe-charter/) — who runs the gates.
-- [Reference Architectures](/architecture/reference-architectures/) — the design phase's pattern catalog.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — the govern gate's core input.
+- [Control Framework](/thought-base/governance/control-framework/) — the control set enforced at govern.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — build-vs-buy, model selection.
+- [CoE Charter](/thought-base/playbooks/coe-charter/) — who runs the gates.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — the design phase's pattern catalog.

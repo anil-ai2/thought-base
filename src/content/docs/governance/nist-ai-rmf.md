@@ -49,8 +49,8 @@ NIST AI RMF is the **backbone** of the control library: a common language for AI
 
 ## Related
 
-- [Control Framework](/governance/control-framework/) — the 12 domains and dashboard.
-- [ISO 42001](/governance/iso-42001/) — the certifiable management system built on similar foundations.
-- [EU AI Act](/governance/eu-ai-act/) — the product-regulation layer.
-- [Control Library](/reference/control-library/) — NIST rows in detail.
-- [Governance & Compliance overview](/governance/) — the stack and translation rule.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains and dashboard.
+- [ISO 42001](/thought-base/governance/iso-42001/) — the certifiable management system built on similar foundations.
+- [EU AI Act](/thought-base/governance/eu-ai-act/) — the product-regulation layer.
+- [Control Library](/thought-base/reference/control-library/) — NIST rows in detail.
+- [Governance & Compliance overview](/thought-base/governance/) — the stack and translation rule.

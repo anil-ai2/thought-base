@@ -11,12 +11,12 @@ sidebar:
 A single matrix that turns six regulatory frameworks into **enforceable platform controls** with automated evidence, named owners and health metrics. This is the artifact that wins the seat: it is the "legal → control → evidence → cost" pipeline in one document. Start with the 12 control domains below, then expand rows per regulation.
 
 :::tip
-Copy the table into a spreadsheet and add one row per (regulation, obligation). Target 30–50 rows for a v1. The full control library lives at [Control Library](/reference/control-library/).
+Copy the table into a spreadsheet and add one row per (regulation, obligation). Target 30–50 rows for a v1. The full control library lives at [Control Library](/thought-base/reference/control-library/).
 :::
 
 ## How to use this framework
 
-1. **Intake:** every AI use case enters through the [Risk Tiering Model](/governance/risk-tiering/). Tier determines which controls apply.
+1. **Intake:** every AI use case enters through the [Risk Tiering Model](/thought-base/governance/risk-tiering/). Tier determines which controls apply.
 2. **Map:** for each applicable (regulation, obligation), select the control domain(s) below and the concrete control.
 3. **Enforce:** controls are implemented as platform capabilities (CI gates, policy engines, registries), not as PDFs.
 4. **Evidence:** each control emits an artifact on every deploy/run. Evidence is an export.
@@ -103,7 +103,7 @@ Controls are implemented as platform capabilities, not documents:
 
 ## Related
 
-- [Risk Tiering Model](/governance/risk-tiering/) — determines which controls apply.
-- [Control Library](/reference/control-library/) — the 30–50 row detail.
-- [Governance as Code](/governance/governance-as-code/) — implementation patterns.
-- [Transformation Operating Model](/playbooks/operating-model/) — where governance sits in the lifecycle.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — determines which controls apply.
+- [Control Library](/thought-base/reference/control-library/) — the 30–50 row detail.
+- [Governance as Code](/thought-base/governance/governance-as-code/) — implementation patterns.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where governance sits in the lifecycle.

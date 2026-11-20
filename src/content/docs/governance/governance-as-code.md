@@ -6,7 +6,7 @@ tags: [governance, governance-as-code]
 
 ## TL;DR
 
-Policies in PDFs do not scale; controls in code do. Governance as code means: policy engines (OPA/Kyverno) enforce rules at deploy time, CI gates block non-compliant changes, registries are the system of record, and evidence is an export rather than a project. This page is the implementation companion to the [Control Framework](/governance/control-framework/).
+Policies in PDFs do not scale; controls in code do. Governance as code means: policy engines (OPA/Kyverno) enforce rules at deploy time, CI gates block non-compliant changes, registries are the system of record, and evidence is an export rather than a project. This page is the implementation companion to the [Control Framework](/thought-base/governance/control-framework/).
 
 ## The four mechanisms
 
@@ -63,8 +63,8 @@ Run on every pull request / deploy; failure blocks promotion.
 
 ## Related
 
-- [Control Framework](/governance/control-framework/) — the 12 domains and dashboard.
-- [Risk Tiering Model](/governance/risk-tiering/) — intake gate.
-- [Control Library](/reference/control-library/) — the evidence standard.
-- [AI Observability](/architecture/ai-observability/) — monitoring feeds evidence.
-- [Transformation Operating Model](/playbooks/operating-model/) — where gates sit in the lifecycle.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains and dashboard.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — intake gate.
+- [Control Library](/thought-base/reference/control-library/) — the evidence standard.
+- [AI Observability](/thought-base/architecture/ai-observability/) — monitoring feeds evidence.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where gates sit in the lifecycle.

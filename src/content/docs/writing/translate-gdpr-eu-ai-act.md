@@ -102,10 +102,10 @@ Controls live in the platform, not in documents. Concretely:
 
 ## Further reading
 
-- [Control Framework](/governance/control-framework/) — the 12 domains and governance dashboard.
-- [Risk Tiering Model](/governance/risk-tiering/) — the intake decision tree.
-- [Control Library](/reference/control-library/) — the full regulation → control → evidence table.
-- [Governance & Compliance overview](/governance/) — the stack and translation rule.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains and governance dashboard.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — the intake decision tree.
+- [Control Library](/thought-base/reference/control-library/) — the full regulation → control → evidence table.
+- [Governance & Compliance overview](/thought-base/governance/) — the stack and translation rule.
 - NIST AI RMF, ISO/IEC 42001, EU AI Act (Art. 9–15), GDPR (Art. 5, 15–22, 25, 32, 33–34).
 
 ---

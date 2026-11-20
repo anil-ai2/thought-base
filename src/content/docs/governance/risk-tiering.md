@@ -104,7 +104,7 @@ AI USE-CASE INTAKE
 
 ## Related
 
-- [AI Control Framework](/governance/control-framework/) — the controls each tier unlocks.
-- [Control Library](/reference/control-library/) — regulation → control → evidence detail.
-- [Transformation Operating Model](/playbooks/operating-model/) — where intake sits in the lifecycle.
-- [Decision Frameworks](/playbooks/decision-frameworks/) — build-vs-buy and vendor evaluation.
+- [AI Control Framework](/thought-base/governance/control-framework/) — the controls each tier unlocks.
+- [Control Library](/thought-base/reference/control-library/) — regulation → control → evidence detail.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where intake sits in the lifecycle.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — build-vs-buy and vendor evaluation.

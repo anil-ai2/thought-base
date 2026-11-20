@@ -88,11 +88,11 @@ Traces are the debugging and audit unit. Store with retention policy; make query
 
 ## Related
 
-- [AI FinOps](/finops/) — cost telemetry and chargeback.
-- [RAG](/architecture/rag/) — retrieval and generation metrics.
-- [Agentic](/architecture/agentic/) — step and cost metrics.
-- [Copilot](/architecture/copilot/) — UX and quality metrics.
-- [AI Security](/architecture/ai-security/) — security monitoring.
-- [Control Framework](/governance/control-framework/) — domain 8 (monitoring).
-- [Risk Tiering](/governance/risk-tiering/) — monitoring by tier.
-- [Data for AI](/architecture/data-governance/) — data quality and lineage.
+- [AI FinOps](/thought-base/finops/) — cost telemetry and chargeback.
+- [RAG](/thought-base/architecture/rag/) — retrieval and generation metrics.
+- [Agentic](/thought-base/architecture/agentic/) — step and cost metrics.
+- [Copilot](/thought-base/architecture/copilot/) — UX and quality metrics.
+- [AI Security](/thought-base/architecture/ai-security/) — security monitoring.
+- [Control Framework](/thought-base/governance/control-framework/) — domain 8 (monitoring).
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — monitoring by tier.
+- [Data for AI](/thought-base/architecture/data-governance/) — data quality and lineage.

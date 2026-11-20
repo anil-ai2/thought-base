@@ -16,7 +16,7 @@ Governance programs fail in two predictable ways: (1) they are written as policy
 
 ## The frame
 
-Governance as code: every control is an automated check, every check emits evidence, every evidence artifact is queryable. Policy documents describe *intent*; code enforces *behavior*. See [Governance as Code](/governance/governance-as-code/) for the implementation companion.
+Governance as code: every control is an automated check, every check emits evidence, every evidence artifact is queryable. Policy documents describe *intent*; code enforces *behavior*. See [Governance as Code](/thought-base/governance/governance-as-code/) for the implementation companion.
 
 ## The mechanism
 
@@ -46,13 +46,13 @@ Big-bang rollout, gates without fast feedback, policies without owners, evidence
 
 ## Further reading
 
-- [Governance as Code](/governance/governance-as-code/) — implementation patterns and tooling.
-- [Control Framework](/governance/control-framework/) — the 12 domains.
-- [Risk Tiering Model](/governance/risk-tiering/) — intake gate.
-- [Control Library](/reference/control-library/) — evidence standard.
-- [AI Observability](/architecture/ai-observability/) — monitoring feeds evidence.
-- [Transformation Operating Model](/playbooks/operating-model/) — where gates sit.
-- [Writing: Translating GDPR & EU AI Act](/writing/translate-gdpr-eu-ai-act/) — the translation method.
+- [Governance as Code](/thought-base/governance/governance-as-code/) — implementation patterns and tooling.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — intake gate.
+- [Control Library](/thought-base/reference/control-library/) — evidence standard.
+- [AI Observability](/thought-base/architecture/ai-observability/) — monitoring feeds evidence.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where gates sit.
+- [Writing: Translating GDPR & EU AI Act](/thought-base/writing/translate-gdpr-eu-ai-act/) — the translation method.
 
 ---
 

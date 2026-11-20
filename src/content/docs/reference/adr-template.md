@@ -72,10 +72,10 @@ What we decided to do, in one or two sentences.
 
 ## Related
 
-- [Top 10 Failure Modes](/reference/top-failure-modes/) — design-review checklist.
-- [Transformation Operating Model](/playbooks/operating-model/) — design review gate.
-- [Decision Frameworks](/playbooks/decision-frameworks/) — scorecards.
-- [Reference Architectures](/architecture/reference-architectures/) — approved patterns.
-- [Control Framework](/governance/control-framework/) — compliance dimension.
-- [Writing](/writing/) — articles derived from ADRs.
-- [About](/about/) — the 12-week skill plan (ADR practice).
+- [Top 10 Failure Modes](/thought-base/reference/top-failure-modes/) — design-review checklist.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — design review gate.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — scorecards.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — approved patterns.
+- [Control Framework](/thought-base/governance/control-framework/) — compliance dimension.
+- [Writing](/thought-base/writing/) — articles derived from ADRs.
+- [About](/thought-base/about/) — the 12-week skill plan (ADR practice).

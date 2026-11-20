@@ -69,8 +69,8 @@ Enable the organization to adopt AI safely, compliantly and cost-efficiently at 
 
 ## Related
 
-- [Transformation Operating Model](/playbooks/operating-model/) — where the CoE sits in the lifecycle.
-- [Decision Frameworks](/playbooks/decision-frameworks/) — build-vs-buy, model selection.
-- [Control Framework](/governance/control-framework/) — the control set the CoE enforces.
-- [Risk Tiering](/governance/risk-tiering/) — intake the CoE runs.
-- [About](/about/) — the seat and the trifecta.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where the CoE sits in the lifecycle.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — build-vs-buy, model selection.
+- [Control Framework](/thought-base/governance/control-framework/) — the control set the CoE enforces.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — intake the CoE runs.
+- [About](/thought-base/about/) — the seat and the trifecta.

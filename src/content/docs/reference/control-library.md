@@ -9,7 +9,7 @@ tags: [reference, control-library, artifact]
 The control library is the **working spreadsheet** behind the Control Framework: one row per (regulation, obligation), run through the six-step translation. It is the single most valuable artifact in this site — copy it, adapt it, and it becomes your audit evidence, your review-board checklist and your interview centerpiece.
 
 :::tip
-Start with the 18 rows below, then expand to 30–50 by adding one row per obligation you care about. Full template at [Resources](/resources/control-library-template/).
+Start with the 18 rows below, then expand to 30–50 by adding one row per obligation you care about. Full template at [Resources](/thought-base/resources/control-library-template/).
 :::
 
 ## How to read a row
@@ -93,7 +93,7 @@ Start with the 18 rows below, then expand to 30–50 by adding one row per oblig
 
 ## Related
 
-- [Control Framework](/governance/control-framework/) — the 12 domains and dashboard.
-- [Risk Tiering Model](/governance/risk-tiering/) — determines which controls apply.
-- [Exec-Line Answer Bank](/resources/exec-line-answer-bank/) — stakeholder-ready translations.
-- [Control Library Template](/resources/control-library-template/) — downloadable starter.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains and dashboard.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — determines which controls apply.
+- [Exec-Line Answer Bank](/thought-base/resources/exec-line-answer-bank/) — stakeholder-ready translations.
+- [Control Library Template](/thought-base/resources/control-library-template/) — downloadable starter.

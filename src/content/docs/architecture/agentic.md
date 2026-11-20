@@ -78,10 +78,10 @@ Key components: planner, tool registry (allow-listed), executor with sandboxing,
 
 ## Related
 
-- [Reference Architectures](/architecture/reference-architectures/) — index.
-- [Copilot](/architecture/copilot/) — lighter-weight alternative.
-- [AI Security](/architecture/ai-security/) — injection and excessive agency.
-- [AI Observability](/architecture/ai-observability/) — cost and quality metrics.
-- [Control Framework](/governance/control-framework/) — high-tier control set.
-- [Risk Tiering](/governance/risk-tiering/) — agentic is typically high tier.
-- [AI FinOps](/finops/) — cost model.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — index.
+- [Copilot](/thought-base/architecture/copilot/) — lighter-weight alternative.
+- [AI Security](/thought-base/architecture/ai-security/) — injection and excessive agency.
+- [AI Observability](/thought-base/architecture/ai-observability/) — cost and quality metrics.
+- [Control Framework](/thought-base/governance/control-framework/) — high-tier control set.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — agentic is typically high tier.
+- [AI FinOps](/thought-base/finops/) — cost model.

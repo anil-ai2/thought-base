@@ -72,10 +72,10 @@ The Act is phased in over several years (prohibited practices first, then GPAI, 
 
 ## Related
 
-- [Governance & Compliance overview](/governance/) — the stack and translation rule.
-- [Risk Tiering Model](/governance/risk-tiering/) — maps to EU AI Act classes.
-- [GDPR](/governance/gdpr/) — data protection layer that sits underneath.
-- [Control Framework](/governance/control-framework/) — obligations → controls.
-- [Control Library](/reference/control-library/) — EU AI Act rows.
-- [NIST AI RMF](/governance/nist-ai-rmf/) — voluntary backbone.
-- [ISO 42001](/governance/iso-42001/) — certifiable management system.
+- [Governance & Compliance overview](/thought-base/governance/) — the stack and translation rule.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — maps to EU AI Act classes.
+- [GDPR](/thought-base/governance/gdpr/) — data protection layer that sits underneath.
+- [Control Framework](/thought-base/governance/control-framework/) — obligations → controls.
+- [Control Library](/thought-base/reference/control-library/) — EU AI Act rows.
+- [NIST AI RMF](/thought-base/governance/nist-ai-rmf/) — voluntary backbone.
+- [ISO 42001](/thought-base/governance/iso-42001/) — certifiable management system.

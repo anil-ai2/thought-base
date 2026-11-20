@@ -57,11 +57,11 @@ Enforce tagging via policy (OPA/Kyverno, cloud policy) — untagged resources ar
 
 ## Related
 
-- [Cost Taxonomy](/finops/cost-taxonomy/) — the four buckets.
-- [Unit Economics](/finops/unit-economics/) — cost per outcome.
-- [GPU Strategy](/finops/gpu-strategy/) — commitment strategy.
-- [FOCUS Spec & Tooling](/finops/focus-spec/) — normalization and tooling.
-- [AI Observability](/architecture/ai-observability/) — cost telemetry.
-- [Control Framework](/governance/control-framework/) — domain 9 (FinOps).
-- [Governance as Code](/governance/governance-as-code/) — tagging enforcement.
-- [Transformation Operating Model](/playbooks/operating-model/) — optimize phase.
+- [Cost Taxonomy](/thought-base/finops/cost-taxonomy/) — the four buckets.
+- [Unit Economics](/thought-base/finops/unit-economics/) — cost per outcome.
+- [GPU Strategy](/thought-base/finops/gpu-strategy/) — commitment strategy.
+- [FOCUS Spec & Tooling](/thought-base/finops/focus-spec/) — normalization and tooling.
+- [AI Observability](/thought-base/architecture/ai-observability/) — cost telemetry.
+- [Control Framework](/thought-base/governance/control-framework/) — domain 9 (FinOps).
+- [Governance as Code](/thought-base/governance/governance-as-code/) — tagging enforcement.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — optimize phase.

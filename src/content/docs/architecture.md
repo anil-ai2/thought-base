@@ -9,12 +9,12 @@ tags: [architecture]
 Architecture here is **pattern-first**: RAG, agentic, copilot, predictive and document processing, each with an approved stack, security baseline, observability contract and cost model. The goal is not to invent new patterns but to make the common ones **safe, compliant and cost-efficient by default** — so 100 engineers can ship without 100 review cycles.
 
 :::tip
-Jump to [Reference Architectures](/architecture/reference-architectures/) for the index, or [RAG](/architecture/rag/) for the most common pattern.
+Jump to [Reference Architectures](/thought-base/architecture/reference-architectures/) for the index, or [RAG](/thought-base/architecture/rag/) for the most common pattern.
 :::
 
 ## What "architect-level" means here
 
-Not implementer depth. Review-level depth: given a 2-page design doc, produce in 30 minutes (a) three risks ranked, (b) the one question that kills the design, (c) an order-of-magnitude cost estimate, (d) a privacy red flag if any. The 12-week data-eng/app-delivery plan in [About](/about/) is how that depth is acquired.
+Not implementer depth. Review-level depth: given a 2-page design doc, produce in 30 minutes (a) three risks ranked, (b) the one question that kills the design, (c) an order-of-magnitude cost estimate, (d) a privacy red flag if any. The 12-week data-eng/app-delivery plan in [About](/thought-base/about/) is how that depth is acquired.
 
 ## The five patterns
 
@@ -42,19 +42,19 @@ One approved stack per capability, not five. Spreading across tools multiplies o
 
 | Page | What it is |
 |---|---|
-| [Reference Architectures](/architecture/reference-architectures/) | Index of all patterns with approved stacks |
-| [RAG](/architecture/rag/) | Retrieval-augmented generation at enterprise scale |
-| [Agentic](/architecture/agentic/) | Multi-agent systems and guardrails |
-| [Copilot](/architecture/copilot/) | Embedded AI assistants |
-| [Predictive](/architecture/predictive/) | Classical + modern ML scoring |
-| [Document Processing](/architecture/document-processing/) | Extraction, classification, routing |
-| [AI Security](/architecture/ai-security/) | OWASP LLM Top 10 and red teaming |
-| [AI Observability](/architecture/ai-observability/) | Tokens, cost, quality, drift |
-| [Data for AI](/architecture/data-governance/) | Contracts, lineage, privacy engineering |
+| [Reference Architectures](/thought-base/architecture/reference-architectures/) | Index of all patterns with approved stacks |
+| [RAG](/thought-base/architecture/rag/) | Retrieval-augmented generation at enterprise scale |
+| [Agentic](/thought-base/architecture/agentic/) | Multi-agent systems and guardrails |
+| [Copilot](/thought-base/architecture/copilot/) | Embedded AI assistants |
+| [Predictive](/thought-base/architecture/predictive/) | Classical + modern ML scoring |
+| [Document Processing](/thought-base/architecture/document-processing/) | Extraction, classification, routing |
+| [AI Security](/thought-base/architecture/ai-security/) | OWASP LLM Top 10 and red teaming |
+| [AI Observability](/thought-base/architecture/ai-observability/) | Tokens, cost, quality, drift |
+| [Data for AI](/thought-base/architecture/data-governance/) | Contracts, lineage, privacy engineering |
 
 ## Design-review checklist (use on any proposal)
 
-1. What is the risk tier? (See [Risk Tiering](/governance/risk-tiering/).)
+1. What is the risk tier? (See [Risk Tiering](/thought-base/governance/risk-tiering/).)
 2. What data enters the prompt/context? Is PII minimized and purpose-tagged?
 3. What is the cost per outcome, and what bounds it?
 4. What is the failure mode and the fallback? (Human handoff, cached answer, graceful degrade.)

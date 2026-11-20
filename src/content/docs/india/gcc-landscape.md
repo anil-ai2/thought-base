@@ -40,7 +40,7 @@ India's GCCs are where in-house strategic AI architect seats live: 1,800–2,100
 
 ## How to find and target seats
 
-- **Job boards:** LinkedIn, Naukri — search the title strings in [About](/about/) / [India overview](/india/).
+- **Job boards:** LinkedIn, Naukri — search the title strings in [About](/thought-base/about/) / [India overview](/thought-base/india/).
 - **Filter:** India, GCC / MNC / product company, BFSI or Healthcare/Pharma, senior/staff/principal level.
 - **Network:** India GCC forums, NASSCOM, cloud user groups, FinOps Foundation India chapter.
 - **Informational interviews:** target current Chief/Head AI Architects at 5 GCCs; learn hiring bar, refine positioning, build referrals.
@@ -54,10 +54,10 @@ Filter: India, GCC / MNC / product company, BFSI or Healthcare/Pharma, senior/st
 
 ## Related
 
-- [India overview](/india/) — regulatory landscape and verticals.
-- [Target Verticals](/india/verticals/) — BFSI, Healthcare/Pharma, Telecom.
-- [Compensation](/india/compensation/) — bands and drivers.
-- [About](/about/) — target employers and meta-vertical.
-- [Personal branding](/about/) — how to convert visibility into referrals.
-- [RBI/SEBI/IRDAI](/governance/india-regulators/) — sectoral governance.
-- [DPDP Act](/governance/dpdp/) — data protection.
+- [India overview](/thought-base/india/) — regulatory landscape and verticals.
+- [Target Verticals](/thought-base/india/verticals/) — BFSI, Healthcare/Pharma, Telecom.
+- [Compensation](/thought-base/india/compensation/) — bands and drivers.
+- [About](/thought-base/about/) — target employers and meta-vertical.
+- [Personal branding](/thought-base/about/) — how to convert visibility into referrals.
+- [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) — sectoral governance.
+- [DPDP Act](/thought-base/governance/dpdp/) — data protection.

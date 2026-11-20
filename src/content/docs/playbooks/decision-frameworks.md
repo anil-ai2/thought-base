@@ -83,11 +83,11 @@ Score each candidate use case on:
 
 ## Related
 
-- [Transformation Operating Model](/playbooks/operating-model/) — where decisions sit in the lifecycle.
-- [CoE Charter](/playbooks/coe-charter/) — who runs the review board.
-- [Build vs. Buy](/playbooks/build-vs-buy/) — deeper treatment.
-- [Vendor Scorecards](/playbooks/vendor-scorecards/) — template.
-- [Reference Architectures](/architecture/reference-architectures/) — pattern catalog.
-- [AI FinOps](/finops/) — cost dimension.
-- [Risk Tiering](/governance/risk-tiering/) — risk dimension.
-- [Control Framework](/governance/control-framework/) — compliance dimension.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where decisions sit in the lifecycle.
+- [CoE Charter](/thought-base/playbooks/coe-charter/) — who runs the review board.
+- [Build vs. Buy](/thought-base/playbooks/build-vs-buy/) — deeper treatment.
+- [Vendor Scorecards](/thought-base/playbooks/vendor-scorecards/) — template.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — pattern catalog.
+- [AI FinOps](/thought-base/finops/) — cost dimension.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — risk dimension.
+- [Control Framework](/thought-base/governance/control-framework/) — compliance dimension.

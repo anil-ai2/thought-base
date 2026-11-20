@@ -86,10 +86,10 @@ A copilot embeds an AI assistant into an existing application. The hard parts ar
 
 ## Related
 
-- [Reference Architectures](/architecture/reference-architectures/) — index.
-- [Agentic](/architecture/agentic/) — when autonomy is needed.
-- [RAG](/architecture/rag/) — when grounding in a corpus.
-- [AI Security](/architecture/ai-security/) — injection and output handling.
-- [AI Observability](/architecture/ai-observability/) — UX and cost metrics.
-- [Control Framework](/governance/control-framework/) — compliance per tier.
-- [Risk Tiering](/governance/risk-tiering/) — copilots are usually limited tier.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — index.
+- [Agentic](/thought-base/architecture/agentic/) — when autonomy is needed.
+- [RAG](/thought-base/architecture/rag/) — when grounding in a corpus.
+- [AI Security](/thought-base/architecture/ai-security/) — injection and output handling.
+- [AI Observability](/thought-base/architecture/ai-observability/) — UX and cost metrics.
+- [Control Framework](/thought-base/governance/control-framework/) — compliance per tier.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — copilots are usually limited tier.

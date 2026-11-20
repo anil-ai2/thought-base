@@ -75,10 +75,10 @@ RAG grounds a model's answers in enterprise knowledge. The hard parts are not th
 
 ## Related
 
-- [Reference Architectures](/architecture/reference-architectures/) — index.
-- [AI Security](/architecture/ai-security/) — prompt injection, output handling.
-- [AI Observability](/architecture/ai-observability/) — quality and cost metrics.
-- [Data for AI](/architecture/data-governance/) — corpus governance.
-- [AI FinOps](/finops/) — cost model and chargeback.
-- [Control Framework](/governance/control-framework/) — compliance per tier.
-- [Risk Tiering](/governance/risk-tiering/) — RAG is usually limited or high tier depending on data.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — index.
+- [AI Security](/thought-base/architecture/ai-security/) — prompt injection, output handling.
+- [AI Observability](/thought-base/architecture/ai-observability/) — quality and cost metrics.
+- [Data for AI](/thought-base/architecture/data-governance/) — corpus governance.
+- [AI FinOps](/thought-base/finops/) — cost model and chargeback.
+- [Control Framework](/thought-base/governance/control-framework/) — compliance per tier.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — RAG is usually limited or high tier depending on data.

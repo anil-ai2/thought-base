@@ -31,7 +31,7 @@ Articles are written to be **reusable**: each one becomes a talk, a LinkedIn car
 
 | # | Title | Pillar | Status | Target |
 |---|---|---|---|---|
-| 1 | [Translating GDPR & EU AI Act into Platform Controls](/writing/translate-gdpr-eu-ai-act/) | Governance as code | Drafted (base) | Phase 1 |
+| 1 | [Translating GDPR & EU AI Act into Platform Controls](/thought-base/writing/translate-gdpr-eu-ai-act/) | Governance as code | Drafted (base) | Phase 1 |
 | 2 | AI FinOps: Unit Economics for Regulated Enterprises | AI FinOps | Planned | Phase 2 |
 | 3 | India's 2026–27 AI Regulatory Wave (DPDP, RBI, SEBI) | India regulatory | Planned | Phase 3 |
 | 4 | Governance as Code for AI | Governance as code | Planned | Phase 3 |
@@ -82,6 +82,6 @@ Links to site pages and external sources.
 
 ## Related
 
-- [About](/about/) — brand positioning statement.
-- [Resources](/resources/) — templates that accompany articles.
-- [Control Framework](/governance/control-framework/) — the centerpiece referenced by most articles.
+- [About](/thought-base/about/) — brand positioning statement.
+- [Resources](/thought-base/resources/) — templates that accompany articles.
+- [Control Framework](/thought-base/governance/control-framework/) — the centerpiece referenced by most articles.

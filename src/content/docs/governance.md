@@ -9,7 +9,7 @@ tags: [governance, compliance]
 Governance is not a policy document. It is a **control set enforced by the platform**, with automated evidence, named owners, and a cost-of-failure number. The stack here runs NIST AI RMF → ISO 42001 → EU AI Act → GDPR/DPDP → RBI/SEBI/IRDAI, and every requirement is translated into: control, evidence, owner, metric.
 
 :::tip
-If you only read one page in this section, read the [AI Control Framework](/governance/control-framework/) — the centerpiece artifact.
+If you only read one page in this section, read the [AI Control Framework](/thought-base/governance/control-framework/) — the centerpiece artifact.
 :::
 
 ## Why governance is the differentiator
@@ -49,7 +49,7 @@ REGULATION → OBLIGATION → CONTROL → EVIDENCE → OWNER → METRIC
 | Owner | Who is accountable? | "Data platform lead + DPO sign-off" |
 | Metric | How do we know it's healthy? | "% pipelines with policy enforced; 0 PII-in-logs incidents" |
 
-Worked translations for GDPR Art. 5, EU AI Act high-risk, RBI/DPDP and more live in the [Control Library](/reference/control-library/) and the [Exec-Line Answer Bank](/resources/exec-line-answer-bank/).
+Worked translations for GDPR Art. 5, EU AI Act high-risk, RBI/DPDP and more live in the [Control Library](/thought-base/reference/control-library/) and the [Exec-Line Answer Bank](/thought-base/resources/exec-line-answer-bank/).
 
 ## What "governance as code" means here
 
@@ -64,15 +64,15 @@ Policies in PDFs do not scale. Controls in code do. Concretely:
 
 | Page | What it is |
 |---|---|
-| [Control Framework](/governance/control-framework/) | Centerpiece artifact — the full control matrix |
-| [Risk Tiering Model](/governance/risk-tiering/) | Intake form + decision tree for AI use cases |
-| [NIST AI RMF](/governance/nist-ai-rmf/) | Govern/Map/Measure/Manage for architects |
-| [ISO 42001](/governance/iso-42001/) | AI management system; certification path |
-| [EU AI Act](/governance/eu-ai-act/) | Risk classes, conformity, FRIA |
-| [GDPR](/governance/gdpr/) | Data minimization, purpose limitation, rights as controls |
-| [DPDP Act](/governance/dpdp/) | India data protection as controls |
-| [RBI/SEBI/IRDAI](/governance/india-regulators/) | Sectoral AI governance in India |
-| [Governance as Code](/governance/governance-as-code/) | OPA/Kyverno, CI gates, registries |
+| [Control Framework](/thought-base/governance/control-framework/) | Centerpiece artifact — the full control matrix |
+| [Risk Tiering Model](/thought-base/governance/risk-tiering/) | Intake form + decision tree for AI use cases |
+| [NIST AI RMF](/thought-base/governance/nist-ai-rmf/) | Govern/Map/Measure/Manage for architects |
+| [ISO 42001](/thought-base/governance/iso-42001/) | AI management system; certification path |
+| [EU AI Act](/thought-base/governance/eu-ai-act/) | Risk classes, conformity, FRIA |
+| [GDPR](/thought-base/governance/gdpr/) | Data minimization, purpose limitation, rights as controls |
+| [DPDP Act](/thought-base/governance/dpdp/) | India data protection as controls |
+| [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) | Sectoral AI governance in India |
+| [Governance as Code](/thought-base/governance/governance-as-code/) | OPA/Kyverno, CI gates, registries |
 
 ## Open questions to resolve per engagement
 

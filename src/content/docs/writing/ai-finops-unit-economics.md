@@ -16,7 +16,7 @@ Most AI programs report total spend monthly. Steering committees cannot act on a
 
 ## The frame
 
-Three units: cost per inference, cost per token, cost per outcome. Cost per outcome is the one that matters; the others are diagnostic. See [Unit Economics](/finops/unit-economics/) for the formulas.
+Three units: cost per inference, cost per token, cost per outcome. Cost per outcome is the one that matters; the others are diagnostic. See [Unit Economics](/thought-base/finops/unit-economics/) for the formulas.
 
 ## The mechanism
 
@@ -27,7 +27,7 @@ Include model API cost, infra share and observability share. Track input and out
 Total cost (training amortized + inference + infra share + data) divided by outcomes delivered. Outcomes are business units, not technical units.
 
 ### Worked example — RAG copilot
-See [Unit Economics](/finops/unit-economics/) for the full worked example ($0.50 per resolved question vs. $5 human alternative).
+See [Unit Economics](/thought-base/finops/unit-economics/) for the full worked example ($0.50 per resolved question vs. $5 human alternative).
 
 ### Improvement levers
 Model right-sizing, prompt optimization, semantic caching, retrieval efficiency, batching, commitment strategy, output length control. In priority order, with expected savings ranges.
@@ -46,21 +46,21 @@ How to present unit economics to leadership: baseline, trend, lever, target, ask
 ## What to do Monday
 
 1. Define the outcome unit for your top AI use case.
-2. Instrument token + cost telemetry per request (see [AI Observability](/architecture/ai-observability/)).
+2. Instrument token + cost telemetry per request (see [AI Observability](/thought-base/architecture/ai-observability/)).
 3. Compute cost per outcome for the last 30 days.
 4. Identify the top 2 levers and estimate savings.
 5. Present a one-page unit-economics summary to your sponsor.
 
 ## Further reading
 
-- [AI FinOps overview](/finops/)
-- [Cost Taxonomy](/finops/cost-taxonomy/)
-- [Chargeback & Showback](/finops/chargeback/)
-- [GPU Strategy](/finops/gpu-strategy/)
-- [FOCUS Spec & Tooling](/finops/focus-spec/)
-- [RAG](/architecture/rag/) — cost model example
-- [Agentic](/architecture/agentic/) — cost multiplication
-- [Control Framework](/governance/control-framework/) — FinOps as control domain 9
+- [AI FinOps overview](/thought-base/finops/)
+- [Cost Taxonomy](/thought-base/finops/cost-taxonomy/)
+- [Chargeback & Showback](/thought-base/finops/chargeback/)
+- [GPU Strategy](/thought-base/finops/gpu-strategy/)
+- [FOCUS Spec & Tooling](/thought-base/finops/focus-spec/)
+- [RAG](/thought-base/architecture/rag/) — cost model example
+- [Agentic](/thought-base/architecture/agentic/) — cost multiplication
+- [Control Framework](/thought-base/governance/control-framework/) — FinOps as control domain 9
 
 ---
 

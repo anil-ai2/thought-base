@@ -48,11 +48,11 @@ India hosts **1,800–2,100 Global Capability Centers (GCCs)** employing ~1.9–
 
 | Page | What it is |
 |---|---|
-| [GCC Landscape](/india/gcc-landscape/) | Where the seats are |
-| [Target Verticals](/india/verticals/) | BFSI, Healthcare/Pharma, Telecom |
-| [Compensation](/india/compensation/) | Bands and drivers |
-| [RBI/SEBI/IRDAI](/governance/india-regulators/) | Sectoral AI governance |
-| [DPDP Act](/governance/dpdp/) | Data protection controls |
+| [GCC Landscape](/thought-base/india/gcc-landscape/) | Where the seats are |
+| [Target Verticals](/thought-base/india/verticals/) | BFSI, Healthcare/Pharma, Telecom |
+| [Compensation](/thought-base/india/compensation/) | Bands and drivers |
+| [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) | Sectoral AI governance |
+| [DPDP Act](/thought-base/governance/dpdp/) | Data protection controls |
 
 ## Demand tailwinds
 
@@ -63,9 +63,9 @@ India hosts **1,800–2,100 Global Capability Centers (GCCs)** employing ~1.9–
 
 ## Related
 
-- [About](/about/) — target employers and meta-vertical.
-- [Governance & Compliance](/governance/) — the stack.
-- [Control Framework](/governance/control-framework/) — the centerpiece.
-- [Writing: India's regulatory wave](/writing/india-ai-regulatory-wave/) (planned).
-- [RBI/SEBI/IRDAI](/governance/india-regulators/) — sectoral detail.
-- [DPDP Act](/governance/dpdp/) — data protection detail.
+- [About](/thought-base/about/) — target employers and meta-vertical.
+- [Governance & Compliance](/thought-base/governance/) — the stack.
+- [Control Framework](/thought-base/governance/control-framework/) — the centerpiece.
+- [Writing: India's regulatory wave](/thought-base/writing/india-ai-regulatory-wave/) (planned).
+- [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) — sectoral detail.
+- [DPDP Act](/thought-base/governance/dpdp/) — data protection detail.

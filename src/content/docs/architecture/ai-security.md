@@ -45,7 +45,7 @@ AI security is not traditional app security with a model bolted on. The new atta
 
 ## Compliance
 
-- Security review is a gate in the [Operating Model](/playbooks/operating-model/) (govern phase).
+- Security review is a gate in the [Operating Model](/thought-base/playbooks/operating-model/) (govern phase).
 - High-tier systems require documented threat model and red-team report as evidence.
 - Incident reporting obligations vary by regulator (RBI/SEBI 24hr, GDPR 72hr, etc.) — build the runbook to the strictest applicable.
 
@@ -59,12 +59,12 @@ AI security is not traditional app security with a model bolted on. The new atta
 
 ## Related
 
-- [Architecture overview](/architecture/) — design-review checklist.
-- [Agentic](/architecture/agentic/) — excessive agency deep dive.
-- [RAG](/architecture/rag/) — indirect injection via corpus.
-- [AI Observability](/architecture/ai-observability/) — security monitoring.
-- [Control Framework](/governance/control-framework/) — domain 4 (security).
-- [Risk Tiering](/governance/risk-tiering/) — security review by tier.
-- [GDPR](/governance/gdpr/) / [DPDP](/governance/dpdp/) — data protection.
-- [EU AI Act](/governance/eu-ai-act/) — cybersecurity obligation (Art. 15).
-- [RBI/SEBI/IRDAI](/governance/india-regulators/) — SEBI threat-modeling mandate.
+- [Architecture overview](/thought-base/architecture/) — design-review checklist.
+- [Agentic](/thought-base/architecture/agentic/) — excessive agency deep dive.
+- [RAG](/thought-base/architecture/rag/) — indirect injection via corpus.
+- [AI Observability](/thought-base/architecture/ai-observability/) — security monitoring.
+- [Control Framework](/thought-base/governance/control-framework/) — domain 4 (security).
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — security review by tier.
+- [GDPR](/thought-base/governance/gdpr/) / [DPDP](/thought-base/governance/dpdp/) — data protection.
+- [EU AI Act](/thought-base/governance/eu-ai-act/) — cybersecurity obligation (Art. 15).
+- [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) — SEBI threat-modeling mandate.

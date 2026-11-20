@@ -72,11 +72,11 @@ Predictive ML (scoring/classification over structured data) is the workhorse of 
 
 ## Related
 
-- [Reference Architectures](/architecture/reference-architectures/) — index.
-- [AI Observability](/architecture/ai-observability/) — drift and performance metrics.
-- [AI Security](/architecture/ai-security/) — model theft, poisoning.
-- [AI FinOps](/finops/) — training and serving cost.
-- [Control Framework](/governance/control-framework/) — high-tier control set.
-- [Risk Tiering](/governance/risk-tiering/) — predictive on people is high tier.
-- [Data for AI](/architecture/data-governance/) — feature governance.
-- [GDPR](/governance/gdpr/) / [EU AI Act](/governance/eu-ai-act/) — regulatory context.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — index.
+- [AI Observability](/thought-base/architecture/ai-observability/) — drift and performance metrics.
+- [AI Security](/thought-base/architecture/ai-security/) — model theft, poisoning.
+- [AI FinOps](/thought-base/finops/) — training and serving cost.
+- [Control Framework](/thought-base/governance/control-framework/) — high-tier control set.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — predictive on people is high tier.
+- [Data for AI](/thought-base/architecture/data-governance/) — feature governance.
+- [GDPR](/thought-base/governance/gdpr/) / [EU AI Act](/thought-base/governance/eu-ai-act/) — regulatory context.

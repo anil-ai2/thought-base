@@ -63,9 +63,9 @@ All three converge on the same control set the Control Framework already defines
 
 ## Related
 
-- [DPDP Act](/governance/dpdp/) — India's data protection law.
-- [India Regulatory Landscape](/india/) — overview and GCC landscape.
-- [Control Framework](/governance/control-framework/) — the 12 domains.
-- [Control Library](/reference/control-library/) — RBI/SEBI/IRDAI rows.
-- [About](/about/) — target verticals and employers.
-- [Writing: India's regulatory wave](/writing/india-ai-regulatory-wave/) — long-form (planned).
+- [DPDP Act](/thought-base/governance/dpdp/) — India's data protection law.
+- [India Regulatory Landscape](/thought-base/india/) — overview and GCC landscape.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains.
+- [Control Library](/thought-base/reference/control-library/) — RBI/SEBI/IRDAI rows.
+- [About](/thought-base/about/) — target verticals and employers.
+- [Writing: India's regulatory wave](/thought-base/writing/india-ai-regulatory-wave/) — long-form (planned).

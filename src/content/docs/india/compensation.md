@@ -48,11 +48,11 @@ AI architects in India (2026): advertised 19–46 LPA (median ~34), senior/GCC/p
 
 ## Related
 
-- [India overview](/india/) — regulatory landscape and verticals.
-- [GCC Landscape](/india/gcc-landscape/) — where the seats are.
-- [Target Verticals](/india/verticals/) — BFSI, Healthcare/Pharma, Telecom.
-- [About](/about/) — target titles and trifecta.
-- [Personal branding](/about/) — visibility as comp leverage.
-- [RBI/SEBI/IRDAI](/governance/india-regulators/) — sectoral governance (premium driver).
-- [Control Framework](/governance/control-framework/) — the artifact that sells.
-- [Writing](/writing/) — thought leadership as comp leverage.
+- [India overview](/thought-base/india/) — regulatory landscape and verticals.
+- [GCC Landscape](/thought-base/india/gcc-landscape/) — where the seats are.
+- [Target Verticals](/thought-base/india/verticals/) — BFSI, Healthcare/Pharma, Telecom.
+- [About](/thought-base/about/) — target titles and trifecta.
+- [Personal branding](/thought-base/about/) — visibility as comp leverage.
+- [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) — sectoral governance (premium driver).
+- [Control Framework](/thought-base/governance/control-framework/) — the artifact that sells.
+- [Writing](/thought-base/writing/) — thought leadership as comp leverage.

@@ -77,13 +77,13 @@ Compare to the human alternative (e.g., $5 per agent-handled question) → 10x i
 
 ## Related
 
-- [Cost Taxonomy](/finops/cost-taxonomy/) — the four buckets.
-- [Chargeback & Showback](/finops/chargeback/) — attributing to teams.
-- [GPU Strategy](/finops/gpu-strategy/) — commitment strategy.
-- [FOCUS Spec & Tooling](/finops/focus-spec/) — normalization and tooling.
-- [AI Observability](/architecture/ai-observability/) — cost telemetry.
-- [Control Framework](/governance/control-framework/) — domain 9 (FinOps).
-- [RAG](/architecture/rag/) — cost model example.
-- [Agentic](/architecture/agentic/) — cost multiplication.
-- [About](/about/) — FinOps certification.
-- [Writing: AI FinOps article](/writing/ai-finops-unit-economics/) (planned).
+- [Cost Taxonomy](/thought-base/finops/cost-taxonomy/) — the four buckets.
+- [Chargeback & Showback](/thought-base/finops/chargeback/) — attributing to teams.
+- [GPU Strategy](/thought-base/finops/gpu-strategy/) — commitment strategy.
+- [FOCUS Spec & Tooling](/thought-base/finops/focus-spec/) — normalization and tooling.
+- [AI Observability](/thought-base/architecture/ai-observability/) — cost telemetry.
+- [Control Framework](/thought-base/governance/control-framework/) — domain 9 (FinOps).
+- [RAG](/thought-base/architecture/rag/) — cost model example.
+- [Agentic](/thought-base/architecture/agentic/) — cost multiplication.
+- [About](/thought-base/about/) — FinOps certification.
+- [Writing: AI FinOps article](/thought-base/writing/ai-finops-unit-economics/) (planned).

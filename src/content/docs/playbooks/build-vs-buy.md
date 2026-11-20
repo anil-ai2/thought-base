@@ -10,7 +10,7 @@ Build when the capability is **strategic, data-sensitive and you can realistical
 
 ## The decision (summary)
 
-See the full scorecard in [Decision Frameworks](/playbooks/decision-frameworks/). Short version:
+See the full scorecard in [Decision Frameworks](/thought-base/playbooks/decision-frameworks/). Short version:
 
 - **Build** if: core to competitive advantage, highly sensitive/regulated data, team can deliver in 3–6 months, cheaper at projected volume, vendor lock-in unacceptable.
 - **Buy** if: commodity capability, need it in weeks, no realistic skill path, vendor has required certifications, cheaper at projected volume.
@@ -57,11 +57,11 @@ See the full scorecard in [Decision Frameworks](/playbooks/decision-frameworks/)
 
 ## Related
 
-- [Decision Frameworks](/playbooks/decision-frameworks/) — build-vs-buy scorecard.
-- [Vendor Scorecards](/playbooks/vendor-scorecards/) — evaluation template.
-- [AI FinOps](/finops/) — cost dimension.
-- [Control Framework](/governance/control-framework/) — compliance dimension.
-- [Risk Tiering](/governance/risk-tiering/) — risk dimension.
-- [Transformation Operating Model](/playbooks/operating-model/) — where decisions sit.
-- [Reference Architectures](/architecture/reference-architectures/) — what you build when you build.
-- [About](/about/) — founder experience as differentiator.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — build-vs-buy scorecard.
+- [Vendor Scorecards](/thought-base/playbooks/vendor-scorecards/) — evaluation template.
+- [AI FinOps](/thought-base/finops/) — cost dimension.
+- [Control Framework](/thought-base/governance/control-framework/) — compliance dimension.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — risk dimension.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where decisions sit.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — what you build when you build.
+- [About](/thought-base/about/) — founder experience as differentiator.

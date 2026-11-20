@@ -6,7 +6,7 @@ tags: [resources, template, control-library]
 
 ## TL;DR
 
-Copy this table into a spreadsheet and add one row per (regulation, obligation). Target 30–50 rows for a v1. The full worked example lives at [Control Library](/reference/control-library/).
+Copy this table into a spreadsheet and add one row per (regulation, obligation). Target 30–50 rows for a v1. The full worked example lives at [Control Library](/thought-base/reference/control-library/).
 
 ## Template (copy into spreadsheet)
 
@@ -18,7 +18,7 @@ Copy this table into a spreadsheet and add one row per (regulation, obligation).
 
 - **Reg:** source regulation/standard + article or section. Keep the article number here (internal); never cite it externally without translation.
 - **Obligation:** plain-language statement of what must be true.
-- **Domain:** control domain number (1–12) from the [Control Framework](/governance/control-framework/).
+- **Domain:** control domain number (1–12) from the [Control Framework](/thought-base/governance/control-framework/).
 - **Control:** concrete mechanism that enforces the obligation. Must be buildable.
 - **Evidence:** artifact produced on every deploy/run. Must be exportable.
 - **Owner:** named role accountable for the control.
@@ -28,7 +28,7 @@ Copy this table into a spreadsheet and add one row per (regulation, obligation).
 
 ## Starter rows (seed)
 
-Seed with the rows from the [Control Library](/reference/control-library/) (18 rows across GDPR, EU AI Act, NIST, ISO 42001, DPDP, RBI/SEBI/IRDAI) and expand.
+Seed with the rows from the [Control Library](/thought-base/reference/control-library/) (18 rows across GDPR, EU AI Act, NIST, ISO 42001, DPDP, RBI/SEBI/IRDAI) and expand.
 
 ## Maintenance
 
@@ -39,9 +39,9 @@ Seed with the rows from the [Control Library](/reference/control-library/) (18 r
 
 ## Related
 
-- [Control Library](/reference/control-library/) — full worked example.
-- [Control Framework](/governance/control-framework/) — the 12 domains and dashboard.
-- [Risk Tiering Model](/governance/risk-tiering/) — determines which controls apply.
-- [Exec-Line Answer Bank](/resources/exec-line-answer-bank/) — stakeholder translations.
-- [Governance as Code](/governance/governance-as-code/) — implementation patterns.
-- [Writing: Translating GDPR & EU AI Act](/writing/translate-gdpr-eu-ai-act/) — long-form treatment.
+- [Control Library](/thought-base/reference/control-library/) — full worked example.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains and dashboard.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — determines which controls apply.
+- [Exec-Line Answer Bank](/thought-base/resources/exec-line-answer-bank/) — stakeholder translations.
+- [Governance as Code](/thought-base/governance/governance-as-code/) — implementation patterns.
+- [Writing: Translating GDPR & EU AI Act](/thought-base/writing/translate-gdpr-eu-ai-act/) — long-form treatment.

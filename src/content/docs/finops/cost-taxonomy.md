@@ -50,12 +50,12 @@ For each use case, compute: **cost per outcome** = (training amortized + inferen
 
 ## Related
 
-- [Unit Economics](/finops/unit-economics/) — cost per inference/token/outcome.
-- [Chargeback & Showback](/finops/chargeback/) — attributing to teams.
-- [GPU Strategy](/finops/gpu-strategy/) — commitment strategy.
-- [FOCUS Spec & Tooling](/finops/focus-spec/) — normalization and tooling.
-- [AI Observability](/architecture/ai-observability/) — cost telemetry.
-- [Control Framework](/governance/control-framework/) — domain 9 (FinOps).
-- [RAG](/architecture/rag/) — cost model example.
-- [Agentic](/architecture/agentic/) — cost multiplication.
-- [About](/about/) — FinOps certification.
+- [Unit Economics](/thought-base/finops/unit-economics/) — cost per inference/token/outcome.
+- [Chargeback & Showback](/thought-base/finops/chargeback/) — attributing to teams.
+- [GPU Strategy](/thought-base/finops/gpu-strategy/) — commitment strategy.
+- [FOCUS Spec & Tooling](/thought-base/finops/focus-spec/) — normalization and tooling.
+- [AI Observability](/thought-base/architecture/ai-observability/) — cost telemetry.
+- [Control Framework](/thought-base/governance/control-framework/) — domain 9 (FinOps).
+- [RAG](/thought-base/architecture/rag/) — cost model example.
+- [Agentic](/thought-base/architecture/agentic/) — cost multiplication.
+- [About](/thought-base/about/) — FinOps certification.

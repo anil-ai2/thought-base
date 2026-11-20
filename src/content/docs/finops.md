@@ -9,7 +9,7 @@ tags: [finops]
 FinOps for AI is not a monthly cost report. It is a **design constraint**: every architecture decision carries a cost-per-outcome number, and cost is visible, attributed and bounded from the first deploy. The FinOps Foundation framework applies, with **engineering elevated to a co-primary persona** (they are the ones who change cost), leadership/finance as sponsors, and AI unit economics as the focus.
 
 :::tip
-If you only read one page here, read [Unit Economics](/finops/unit-economics/).
+If you only read one page here, read [Unit Economics](/thought-base/finops/unit-economics/).
 :::
 
 ## Why FinOps is a differentiator for this seat
@@ -28,11 +28,11 @@ Most FinOps practitioners are engineers; the gap is translating cost to executiv
 
 | Page | What it is |
 |---|---|
-| [Cost Taxonomy](/finops/cost-taxonomy/) | Training / inference / infra / data breakdown |
-| [Unit Economics](/finops/unit-economics/) | Cost per inference, token, outcome |
-| [Chargeback & Showback](/finops/chargeback/) | Attributing cost to teams and products |
-| [GPU Strategy](/finops/gpu-strategy/) | Reserved / spot / on-demand / commitments |
-| [FOCUS Spec & Tooling](/finops/focus-spec/) | FOCUS, Kubecost/OpenCost, CloudZero/Vantage |
+| [Cost Taxonomy](/thought-base/finops/cost-taxonomy/) | Training / inference / infra / data breakdown |
+| [Unit Economics](/thought-base/finops/unit-economics/) | Cost per inference, token, outcome |
+| [Chargeback & Showback](/thought-base/finops/chargeback/) | Attributing cost to teams and products |
+| [GPU Strategy](/thought-base/finops/gpu-strategy/) | Reserved / spot / on-demand / commitments |
+| [FOCUS Spec & Tooling](/thought-base/finops/focus-spec/) | FOCUS, Kubecost/OpenCost, CloudZero/Vantage |
 
 ## AI-specific cost realities
 
@@ -63,7 +63,7 @@ Most FinOps practitioners are engineers; the gap is translating cost to executiv
 
 ## Related
 
-- [AI Observability](/architecture/ai-observability/) — cost telemetry lives in observability.
-- [Decision Frameworks](/playbooks/decision-frameworks/) — build-vs-buy includes cost.
-- [Control Framework](/governance/control-framework/) — FinOps is control domain 9.
-- [About](/about/) — certifications (FinOps CP/Engineer).
+- [AI Observability](/thought-base/architecture/ai-observability/) — cost telemetry lives in observability.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — build-vs-buy includes cost.
+- [Control Framework](/thought-base/governance/control-framework/) — FinOps is control domain 9.
+- [About](/thought-base/about/) — certifications (FinOps CP/Engineer).

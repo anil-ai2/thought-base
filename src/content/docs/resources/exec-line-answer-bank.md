@@ -53,9 +53,9 @@ The "translate, don't cite" rule in action: one-line answers for the regulations
 
 ## Related
 
-- [Control Library](/reference/control-library/) — full translation table.
-- [Control Framework](/governance/control-framework/) — the 12 domains.
-- [Risk Tiering Model](/governance/risk-tiering/) — intake classification.
-- [Writing: Translating GDPR & EU AI Act](/writing/translate-gdpr-eu-ai-act/) — long-form treatment.
-- [Governance & Compliance](/governance/) — the stack and translation rule.
-- [About](/about/) — positioning statement.
+- [Control Library](/thought-base/reference/control-library/) — full translation table.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — intake classification.
+- [Writing: Translating GDPR & EU AI Act](/thought-base/writing/translate-gdpr-eu-ai-act/) — long-form treatment.
+- [Governance & Compliance](/thought-base/governance/) — the stack and translation rule.
+- [About](/thought-base/about/) — positioning statement.

@@ -6,7 +6,7 @@ tags: [resources, template, risk-tiering]
 
 ## TL;DR
 
-Copy the intake form and decision tree below into your review board's tooling. Every AI use case is classified at intake; the tier determines the mandatory control set. Full rationale and control matrix at [Risk Tiering Model](/governance/risk-tiering/).
+Copy the intake form and decision tree below into your review board's tooling. Every AI use case is classified at intake; the tier determines the mandatory control set. Full rationale and control matrix at [Risk Tiering Model](/thought-base/governance/risk-tiering/).
 
 ## Intake form (copy this)
 
@@ -41,7 +41,7 @@ When in doubt, tier up. Down-tiering requires review-board approval and a docume
 
 ## Required controls by tier
 
-See the full control matrix at [Risk Tiering Model](/governance/risk-tiering/) — includes the control set per tier and the review-board checklist.
+See the full control matrix at [Risk Tiering Model](/thought-base/governance/risk-tiering/) — includes the control set per tier and the review-board checklist.
 
 ## Anti-patterns to reject
 
@@ -53,8 +53,8 @@ See the full control matrix at [Risk Tiering Model](/governance/risk-tiering/) �
 
 ## Related
 
-- [Risk Tiering Model](/governance/risk-tiering/) — full rationale.
-- [Control Framework](/governance/control-framework/) — the 12 domains.
-- [Control Library Template](/resources/control-library-template/) — companion template.
-- [Transformation Operating Model](/playbooks/operating-model/) — where intake sits.
-- [Decision Frameworks](/playbooks/decision-frameworks/) — use-case prioritization.
+- [Risk Tiering Model](/thought-base/governance/risk-tiering/) — full rationale.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains.
+- [Control Library Template](/thought-base/resources/control-library-template/) — companion template.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where intake sits.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — use-case prioritization.

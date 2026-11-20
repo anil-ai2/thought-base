@@ -64,11 +64,11 @@ tags: [finops, focus, tooling]
 
 ## Related
 
-- [Cost Taxonomy](/finops/cost-taxonomy/) — the four buckets.
-- [Unit Economics](/finops/unit-economics/) — cost per inference/outcome.
-- [Chargeback & Showback](/finops/chargeback/) — attributing to teams.
-- [GPU Strategy](/finops/gpu-strategy/) — commitment strategy.
-- [AI Observability](/architecture/ai-observability/) — cost telemetry.
-- [Control Framework](/governance/control-framework/) — domain 9 (FinOps).
-- [Governance as Code](/governance/governance-as-code/) — tagging enforcement.
-- [About](/about/) — FinOps certification (FinOps CP/Engineer).
+- [Cost Taxonomy](/thought-base/finops/cost-taxonomy/) — the four buckets.
+- [Unit Economics](/thought-base/finops/unit-economics/) — cost per inference/outcome.
+- [Chargeback & Showback](/thought-base/finops/chargeback/) — attributing to teams.
+- [GPU Strategy](/thought-base/finops/gpu-strategy/) — commitment strategy.
+- [AI Observability](/thought-base/architecture/ai-observability/) — cost telemetry.
+- [Control Framework](/thought-base/governance/control-framework/) — domain 9 (FinOps).
+- [Governance as Code](/thought-base/governance/governance-as-code/) — tagging enforcement.
+- [About](/thought-base/about/) — FinOps certification (FinOps CP/Engineer).

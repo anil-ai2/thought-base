@@ -11,28 +11,28 @@ A small catalog of **approved patterns** with approved stacks, security baseline
 ## How to use this catalog
 
 1. Map your use case to a pattern (see table below).
-2. Check the risk tier ([Risk Tiering](/governance/risk-tiering/)) — pattern + tier determines the control set.
+2. Check the risk tier ([Risk Tiering](/thought-base/governance/risk-tiering/)) — pattern + tier determines the control set.
 3. Adopt the approved stack; deviations require an ADR and review-board approval.
-4. Run the design-review checklist ([Architecture overview](/architecture/)).
-5. Ship through the [Operating Model](/playbooks/operating-model/) gates.
+4. Run the design-review checklist ([Architecture overview](/thought-base/architecture/)).
+5. Ship through the [Operating Model](/thought-base/playbooks/operating-model/) gates.
 
 ## Pattern index
 
 | Pattern | Use when | Primary risks | Page |
 |---|---|---|---|
-| **RAG** | Grounded Q&A / search over enterprise knowledge | Hallucination, stale index, PII in corpus, retrieval cost | [RAG](/architecture/rag/) |
-| **Agentic** | Multi-step tasks with tool use and autonomy | Excessive agency, runaway cost, non-determinism, auditability | [Agentic](/architecture/agentic/) |
-| **Copilot** | Embedded assistant inside an existing app | Latency, context leakage, over-trust, UX failure modes | [Copilot](/architecture/copilot/) |
-| **Predictive** | Scoring / classification over structured data | Bias, drift, feedback loops, explainability | [Predictive](/architecture/predictive/) |
-| **Document processing** | Extraction, classification, routing of documents | PII exposure, accuracy thresholds, human review queues | [Document processing](/architecture/document-processing/) |
+| **RAG** | Grounded Q&A / search over enterprise knowledge | Hallucination, stale index, PII in corpus, retrieval cost | [RAG](/thought-base/architecture/rag/) |
+| **Agentic** | Multi-step tasks with tool use and autonomy | Excessive agency, runaway cost, non-determinism, auditability | [Agentic](/thought-base/architecture/agentic/) |
+| **Copilot** | Embedded assistant inside an existing app | Latency, context leakage, over-trust, UX failure modes | [Copilot](/thought-base/architecture/copilot/) |
+| **Predictive** | Scoring / classification over structured data | Bias, drift, feedback loops, explainability | [Predictive](/thought-base/architecture/predictive/) |
+| **Document processing** | Extraction, classification, routing of documents | PII exposure, accuracy thresholds, human review queues | [Document processing](/thought-base/architecture/document-processing/) |
 
 ## Cross-cutting baselines (apply to every pattern)
 
-- **Security:** [AI Security](/architecture/ai-security/) — OWASP LLM Top 10, red teaming.
-- **Observability:** [AI Observability](/architecture/ai-observability/) — tokens, cost, quality, drift.
-- **Data:** [Data for AI](/architecture/data-governance/) — contracts, lineage, privacy engineering.
-- **Cost:** [AI FinOps](/finops/) — cost taxonomy, unit economics, chargeback.
-- **Compliance:** [Control Framework](/governance/control-framework/) — per tier.
+- **Security:** [AI Security](/thought-base/architecture/ai-security/) — OWASP LLM Top 10, red teaming.
+- **Observability:** [AI Observability](/thought-base/architecture/ai-observability/) — tokens, cost, quality, drift.
+- **Data:** [Data for AI](/thought-base/architecture/data-governance/) — contracts, lineage, privacy engineering.
+- **Cost:** [AI FinOps](/thought-base/finops/) — cost taxonomy, unit economics, chargeback.
+- **Compliance:** [Control Framework](/thought-base/governance/control-framework/) — per tier.
 
 ## Approved-stack defaults (Azure-flavored)
 
@@ -57,7 +57,7 @@ Swap the cloud, keep the pattern. Deviations require an ADR.
 
 ## Related
 
-- [Architecture overview](/architecture/) — patterns, cross-cutting concerns, design-review checklist.
-- [Transformation Operating Model](/playbooks/operating-model/) — where architecture sits in the lifecycle.
-- [Decision Frameworks](/playbooks/decision-frameworks/) — build-vs-buy and model selection.
-- [Control Framework](/governance/control-framework/) — compliance per tier.
+- [Architecture overview](/thought-base/architecture/) — patterns, cross-cutting concerns, design-review checklist.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — where architecture sits in the lifecycle.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — build-vs-buy and model selection.
+- [Control Framework](/thought-base/governance/control-framework/) — compliance per tier.

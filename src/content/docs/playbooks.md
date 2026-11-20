@@ -9,7 +9,7 @@ tags: [playbooks, transformation]
 Playbooks are the **reusable, copy-pasteable operating system** for enterprise AI transformation: an operating model with gates, a CoE charter, decision frameworks (build-vs-buy, model selection, vendor scorecards) and the risk tiering model. They are what turns a single architect into a force multiplier across 100 engineers.
 
 :::tip
-Start with the [Operating Model](/playbooks/operating-model/) — it shows where every other artifact fits.
+Start with the [Operating Model](/thought-base/playbooks/operating-model/) — it shows where every other artifact fits.
 :::
 
 ## Why playbooks matter for this seat
@@ -20,12 +20,12 @@ A strategic architect does not ship code; they ship **standards, gates and enabl
 
 | Playbook | What it is | Status |
 |---|---|---|
-| [Operating Model](/playbooks/operating-model/) | Discover → Assess → Design → Govern → Scale → Optimize with gates | P0 |
-| [CoE Charter](/playbooks/coe-charter/) | RACI, review board, enablement, community of practice | P1 |
-| [Decision Frameworks](/playbooks/decision-frameworks/) | Build-vs-buy, model selection, vendor scorecards | P1 |
-| [Build vs. Buy](/playbooks/build-vs-buy/) | When to build, buy, or partner | P2 |
-| [Vendor Scorecards](/playbooks/vendor-scorecards/) | Model provider / platform evaluation template | P2 |
-| [Risk Tiering](/governance/risk-tiering/) | (lives in Governance; referenced here) | P0 |
+| [Operating Model](/thought-base/playbooks/operating-model/) | Discover → Assess → Design → Govern → Scale → Optimize with gates | P0 |
+| [CoE Charter](/thought-base/playbooks/coe-charter/) | RACI, review board, enablement, community of practice | P1 |
+| [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) | Build-vs-buy, model selection, vendor scorecards | P1 |
+| [Build vs. Buy](/thought-base/playbooks/build-vs-buy/) | When to build, buy, or partner | P2 |
+| [Vendor Scorecards](/thought-base/playbooks/vendor-scorecards/) | Model provider / platform evaluation template | P2 |
+| [Risk Tiering](/thought-base/governance/risk-tiering/) | (lives in Governance; referenced here) | P0 |
 
 ## Operating principles for playbooks
 
@@ -44,6 +44,6 @@ A strategic architect does not ship code; they ship **standards, gates and enabl
 
 ## Related
 
-- [About](/about/) — the seat and the trifecta.
-- [Control Framework](/governance/control-framework/) — the control set playbooks enforce.
-- [Writing](/writing/) — long-form thought leadership derived from playbooks.
+- [About](/thought-base/about/) — the seat and the trifecta.
+- [Control Framework](/thought-base/governance/control-framework/) — the control set playbooks enforce.
+- [Writing](/thought-base/writing/) — long-form thought leadership derived from playbooks.

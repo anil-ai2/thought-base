@@ -55,10 +55,10 @@ Determine early whether your organization will be designated an SDF. If yes, bud
 
 ## Related
 
-- [GDPR](/governance/gdpr/) — structural parallel.
-- [RBI/SEBI/IRDAI](/governance/india-regulators/) — sectoral layer.
-- [India Regulatory Landscape](/india/) — overview.
-- [Control Framework](/governance/control-framework/) — domains 2, 5, 6, 11.
-- [Control Library](/reference/control-library/) — DPDP rows.
-- [Writing: India's regulatory wave](/writing/india-ai-regulatory-wave/) — long-form (planned).
-- [About](/about/) — certification recommendation (CIPP/E).
+- [GDPR](/thought-base/governance/gdpr/) — structural parallel.
+- [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) — sectoral layer.
+- [India Regulatory Landscape](/thought-base/india/) — overview.
+- [Control Framework](/thought-base/governance/control-framework/) — domains 2, 5, 6, 11.
+- [Control Library](/thought-base/reference/control-library/) — DPDP rows.
+- [Writing: India's regulatory wave](/thought-base/writing/india-ai-regulatory-wave/) — long-form (planned).
+- [About](/thought-base/about/) — certification recommendation (CIPP/E).

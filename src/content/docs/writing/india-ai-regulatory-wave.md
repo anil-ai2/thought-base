@@ -16,15 +16,15 @@ Most organizations are waiting for "final rules" before acting. By then, the con
 
 ## The frame
 
-India is a **pro-innovation jurisdiction with light-touch horizontal rules and deepening sectoral regulation**. The horizontal layer (DPDP, India AI Governance Guidelines) sets tone; the sectoral regulators (RBI, SEBI, IRDAI, TRAI, ICMR, NHA) set obligations. See [India overview](/india/) for the full stack.
+India is a **pro-innovation jurisdiction with light-touch horizontal rules and deepening sectoral regulation**. The horizontal layer (DPDP, India AI Governance Guidelines) sets tone; the sectoral regulators (RBI, SEBI, IRDAI, TRAI, ICMR, NHA) set obligations. See [India overview](/thought-base/india/) for the full stack.
 
 ## The mechanism
 
 ### DPDP Act (horizontal data)
-Consent, purpose limitation, data principal rights, breach notification, SDF obligations. Deadline May 2027. Controls: consent ledger, purpose tags, rights API, erasure cascade, SDF readiness. See [DPDP](/governance/dpdp/).
+Consent, purpose limitation, data principal rights, breach notification, SDF obligations. Deadline May 2027. Controls: consent ledger, purpose tags, rights API, erasure cascade, SDF readiness. See [DPDP](/thought-base/governance/dpdp/).
 
 ### RBI (banking)
-Draft AI framework + FREE-AI (7 principles, 26 recommendations): board-approved AI policy, model risk management, vendor oversight, fairness audits, incident reporting (24hr). See [RBI/SEBI/IRDAI](/governance/india-regulators/).
+Draft AI framework + FREE-AI (7 principles, 26 recommendations): board-approved AI policy, model risk management, vendor oversight, fairness audits, incident reporting (24hr). See [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/).
 
 ### SEBI (securities)
 May 2026 circular: AI adoption and threat modeling for 10,000+ financial entities. Controls: threat model per system, security review, documentation, monitoring.
@@ -47,12 +47,12 @@ Sectoral regulators expected to issue AI-specific rules. Watch the sectoral laye
 | Threat modeling | 4 |
 | Audit trail / evidence | 11 |
 
-One control framework, multiple regulator mappings — add a column per regulator in the control library. See [Control Framework](/governance/control-framework/).
+One control framework, multiple regulator mappings — add a column per regulator in the control library. See [Control Framework](/thought-base/governance/control-framework/).
 
 ## What to do Monday
 
 1. Determine whether your organization is a Significant Data Fiduciary (DPDP).
-2. Stand up an AI use-case register with risk tiering (see [Risk Tiering](/governance/risk-tiering/)).
+2. Stand up an AI use-case register with risk tiering (see [Risk Tiering](/thought-base/governance/risk-tiering/)).
 3. Map RBI/SEBI/IRDAI expectations to your control library (add columns).
 4. Build the consent ledger + purpose tags (DPDP).
 5. Run a threat model on your top AI system (SEBI).
@@ -60,15 +60,15 @@ One control framework, multiple regulator mappings — add a column per regulato
 
 ## Further reading
 
-- [India overview](/india/) — regulatory landscape and GCC opportunity.
-- [GCC Landscape](/india/gcc-landscape/) — where the seats are.
-- [Target Verticals](/india/verticals/) — BFSI, Healthcare/Pharma, Telecom.
-- [Compensation](/india/compensation/) — bands and drivers.
-- [DPDP Act](/governance/dpdp/) — data protection controls.
-- [RBI/SEBI/IRDAI](/governance/india-regulators/) — sectoral detail.
-- [Control Framework](/governance/control-framework/) — the 12 domains.
-- [Control Library](/reference/control-library/) — regulation rows.
-- [About](/about/) — positioning and target employers.
+- [India overview](/thought-base/india/) — regulatory landscape and GCC opportunity.
+- [GCC Landscape](/thought-base/india/gcc-landscape/) — where the seats are.
+- [Target Verticals](/thought-base/india/verticals/) — BFSI, Healthcare/Pharma, Telecom.
+- [Compensation](/thought-base/india/compensation/) — bands and drivers.
+- [DPDP Act](/thought-base/governance/dpdp/) — data protection controls.
+- [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) — sectoral detail.
+- [Control Framework](/thought-base/governance/control-framework/) — the 12 domains.
+- [Control Library](/thought-base/reference/control-library/) — regulation rows.
+- [About](/thought-base/about/) — positioning and target employers.
 
 ---
 

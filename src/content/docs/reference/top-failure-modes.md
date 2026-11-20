@@ -32,17 +32,17 @@ A design-review checklist of the most common failure modes in data pipelines and
 2. Walk the 10 failure modes; mark applicable ones.
 3. Rank the top 3 by impact × likelihood.
 4. Identify the **one question that kills the design** (the assumption that, if wrong, invalidates the approach).
-5. Estimate cost order-of-magnitude (use [Unit Economics](/finops/unit-economics/)).
+5. Estimate cost order-of-magnitude (use [Unit Economics](/thought-base/finops/unit-economics/)).
 6. Flag any privacy/redaction gap.
 7. Write the review: 3 risks, kill question, cost estimate, privacy flag.
 
 ## Related
 
-- [ADR Template + Examples](/reference/adr-template/) — record the decision.
-- [Data for AI](/architecture/data-governance/) — data governance foundation.
-- [AI Observability](/architecture/ai-observability/) — monitoring for these failure modes.
-- [Governance as Code](/governance/governance-as-code/) — CI enforcement.
-- [Control Framework](/governance/control-framework/) — domains 2, 4, 8, 11.
-- [About](/about/) — the 12-week skill acquisition plan.
-- [AI FinOps](/finops/) — cost dimension.
-- [Transformation Operating Model](/playbooks/operating-model/) — design review gate.
+- [ADR Template + Examples](/thought-base/reference/adr-template/) — record the decision.
+- [Data for AI](/thought-base/architecture/data-governance/) — data governance foundation.
+- [AI Observability](/thought-base/architecture/ai-observability/) — monitoring for these failure modes.
+- [Governance as Code](/thought-base/governance/governance-as-code/) — CI enforcement.
+- [Control Framework](/thought-base/governance/control-framework/) — domains 2, 4, 8, 11.
+- [About](/thought-base/about/) — the 12-week skill acquisition plan.
+- [AI FinOps](/thought-base/finops/) — cost dimension.
+- [Transformation Operating Model](/thought-base/playbooks/operating-model/) — design review gate.

@@ -56,12 +56,12 @@ Going fully generalist makes you compete on price with pure tech architects. Goi
 
 ## Related
 
-- [India overview](/india/) — regulatory landscape and GCC opportunity.
-- [GCC Landscape](/india/gcc-landscape/) — where the seats are.
-- [Compensation](/india/compensation/) — bands and drivers.
-- [RBI/SEBI/IRDAI](/governance/india-regulators/) — sectoral governance.
-- [DPDP Act](/governance/dpdp/) — data protection.
-- [About](/about/) — target employers and titles.
-- [Control Framework](/governance/control-framework/) — the artifact that sells in these verticals.
-- [Risk Tiering](/governance/risk-tiering/) — use-case classification.
-- [Writing: India's regulatory wave](/writing/india-ai-regulatory-wave/) (planned).
+- [India overview](/thought-base/india/) — regulatory landscape and GCC opportunity.
+- [GCC Landscape](/thought-base/india/gcc-landscape/) — where the seats are.
+- [Compensation](/thought-base/india/compensation/) — bands and drivers.
+- [RBI/SEBI/IRDAI](/thought-base/governance/india-regulators/) — sectoral governance.
+- [DPDP Act](/thought-base/governance/dpdp/) — data protection.
+- [About](/thought-base/about/) — target employers and titles.
+- [Control Framework](/thought-base/governance/control-framework/) — the artifact that sells in these verticals.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — use-case classification.
+- [Writing: India's regulatory wave](/thought-base/writing/india-ai-regulatory-wave/) (planned).

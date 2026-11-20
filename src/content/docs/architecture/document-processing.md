@@ -78,11 +78,11 @@ Tune thresholds on a labeled eval set; measure per document type, not in aggrega
 
 ## Related
 
-- [Reference Architectures](/architecture/reference-architectures/) — index.
-- [RAG](/architecture/rag/) — when documents are queried, not extracted.
-- [AI Observability](/architecture/ai-observability/) — accuracy and cost metrics.
-- [AI Security](/architecture/ai-security/) — PII and injection risks.
-- [AI FinOps](/finops/) — per-document cost.
-- [Control Framework](/governance/control-framework/) — compliance per tier.
-- [GDPR](/governance/gdpr/) / [DPDP](/governance/dpdp/) — data protection.
-- [Risk Tiering](/governance/risk-tiering/) — often high tier for consequential docs.
+- [Reference Architectures](/thought-base/architecture/reference-architectures/) — index.
+- [RAG](/thought-base/architecture/rag/) — when documents are queried, not extracted.
+- [AI Observability](/thought-base/architecture/ai-observability/) — accuracy and cost metrics.
+- [AI Security](/thought-base/architecture/ai-security/) — PII and injection risks.
+- [AI FinOps](/thought-base/finops/) — per-document cost.
+- [Control Framework](/thought-base/governance/control-framework/) — compliance per tier.
+- [GDPR](/thought-base/governance/gdpr/) / [DPDP](/thought-base/governance/dpdp/) — data protection.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — often high tier for consequential docs.

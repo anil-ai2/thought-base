@@ -21,7 +21,7 @@ GDPR is not a legal document to be read once a year. It is a **control set** tha
 
 ## Worked example — Art. 5 (data minimization)
 
-See the full worked translation in [Translating GDPR & EU AI Act into Platform Controls](/writing/translate-gdpr-eu-ai-act/). Short version:
+See the full worked translation in [Translating GDPR & EU AI Act into Platform Controls](/thought-base/writing/translate-gdpr-eu-ai-act/). Short version:
 
 - **Legal:** "Personal data shall be adequate, relevant and limited to what is necessary."
 - **Control:** "Field-level data minimization: allow-listed columns per use case; automated PII detection in CI/CD; quarterly sampling audit; purge jobs with retention TTL."
@@ -55,9 +55,9 @@ A Data Protection Impact Assessment should be a **gate in the intake**, not a PD
 
 ## Related
 
-- [EU AI Act](/governance/eu-ai-act/) — product regulation layer.
-- [DPDP Act](/governance/dpdp/) — India's data protection law (similar structure).
-- [Control Framework](/governance/control-framework/) — domains 2, 5, 6, 11.
-- [Control Library](/reference/control-library/) — GDPR rows.
-- [Writing: Translating GDPR & EU AI Act](/writing/translate-gdpr-eu-ai-act/) — long-form treatment.
-- [Privacy certification (CIPP/E)](/about/) — credential recommendation.
+- [EU AI Act](/thought-base/governance/eu-ai-act/) — product regulation layer.
+- [DPDP Act](/thought-base/governance/dpdp/) — India's data protection law (similar structure).
+- [Control Framework](/thought-base/governance/control-framework/) — domains 2, 5, 6, 11.
+- [Control Library](/thought-base/reference/control-library/) — GDPR rows.
+- [Writing: Translating GDPR & EU AI Act](/thought-base/writing/translate-gdpr-eu-ai-act/) — long-form treatment.
+- [Privacy certification (CIPP/E)](/thought-base/about/) — credential recommendation.

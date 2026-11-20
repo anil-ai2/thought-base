@@ -6,7 +6,7 @@ tags: [playbooks, vendor-scorecards, template]
 
 ## TL;DR
 
-A reusable scorecard for evaluating AI vendors and model providers. Score 1–5 per category, weight by use-case importance, require a minimum (e.g., 3.5/5) to proceed. Pair with [Build vs. Buy](/playbooks/build-vs-buy/) and [Decision Frameworks](/playbooks/decision-frameworks/).
+A reusable scorecard for evaluating AI vendors and model providers. Score 1–5 per category, weight by use-case importance, require a minimum (e.g., 3.5/5) to proceed. Pair with [Build vs. Buy](/thought-base/playbooks/build-vs-buy/) and [Decision Frameworks](/thought-base/playbooks/decision-frameworks/).
 
 ## Scorecard template
 
@@ -87,11 +87,11 @@ A reusable scorecard for evaluating AI vendors and model providers. Score 1–5 
 
 ## Related
 
-- [Build vs. Buy](/playbooks/build-vs-buy/) — when to buy.
-- [Decision Frameworks](/playbooks/decision-frameworks/) — model selection and prioritization.
-- [AI FinOps](/finops/) — cost dimension.
-- [Control Framework](/governance/control-framework/) — compliance dimension.
-- [Risk Tiering](/governance/risk-tiering/) — risk dimension.
-- [GDPR](/governance/gdpr/) / [DPDP](/governance/dpdp/) — data protection terms.
-- [EU AI Act](/governance/eu-ai-act/) — provider/deployer obligations.
-- [About](/about/) — target verticals and employers.
+- [Build vs. Buy](/thought-base/playbooks/build-vs-buy/) — when to buy.
+- [Decision Frameworks](/thought-base/playbooks/decision-frameworks/) — model selection and prioritization.
+- [AI FinOps](/thought-base/finops/) — cost dimension.
+- [Control Framework](/thought-base/governance/control-framework/) — compliance dimension.
+- [Risk Tiering](/thought-base/governance/risk-tiering/) — risk dimension.
+- [GDPR](/thought-base/governance/gdpr/) / [DPDP](/thought-base/governance/dpdp/) — data protection terms.
+- [EU AI Act](/thought-base/governance/eu-ai-act/) — provider/deployer obligations.
+- [About](/thought-base/about/) — target verticals and employers.

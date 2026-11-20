@@ -34,7 +34,7 @@ I aim to respond within 5 business days. For role inquiries, please include: rol
 
 ## Related
 
-- [About](/about/) — positioning and the trifecta.
-- [Writing](/writing/) — articles and thought leadership.
-- [Resources](/resources/) — templates and artifacts.
-- [India overview](/india/) — target verticals and GCC landscape.
+- [About](/thought-base/about/) — positioning and the trifecta.
+- [Writing](/thought-base/writing/) — articles and thought leadership.
+- [Resources](/thought-base/resources/) — templates and artifacts.
+- [India overview](/thought-base/india/) — target verticals and GCC landscape.
